@@ -1,5 +1,5 @@
-count = 20
-while count >= 1 do
+count = 0
+while count <= 20 do
   puts count
   count += 1
 end
